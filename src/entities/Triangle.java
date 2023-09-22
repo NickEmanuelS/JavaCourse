@@ -5,7 +5,8 @@ public class Triangle {
 	public double a, b, c;
 	
 	public Triangle() {
-		
+
+
 	}
 
 	public void setA(double a) {
